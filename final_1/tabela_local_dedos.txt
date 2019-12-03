@@ -1,0 +1,68 @@
+DEDAO : 
+maior
+H = 0mm
+V = 27,85mm
+Mr = 20,181mm
+Mer = 10,755mm
+Ang 137,707deg
+
+menor 
+H = 0
+V = 27,85
+Mr = 17,04mm
+Mer = 8,159mm
+Ang = -41,523
+
+dedominimo
+
+H = 19,981mm
+V = 39,897mm
+Mr = 17,19mm
+Mer = 8,755mm
+Ang -49,88deg
+
+H =19,981mm 
+V = 39,897mm
+Mr = 14,519mm
+Mer = 6,711mm
+Ang -49,561deg
+
+
+
+
+Anelar esquerda
+H = 38,988mm
+V = 39,795mm
+Mr = 17,19mm
+Mer = 8,755mm
+Ang 180deg
+
+H = 38,988mm
+V = 39,795mm
+Mr = 14,519mm
+Mre = 6,711mm
+Ang0deg
+
+
+Indicador 
+H = 41,852mm
+V = -21,882mm
+Mr = 17,19mm
+Mer = 8,755mm
+Ang 0deg
+
+H = 41,852mm
+v = -21,882mm
+Mr = 14,519mm
+Mer = 6,711mm
+Ang 0deg
+
+
+meio 
+
+H = 43,168mm
+V = 3,291mm
+Mr= 20,478mm
+Mer = 9,875mm
+Ang180deg
+
